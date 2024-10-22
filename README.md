@@ -111,7 +111,7 @@
 </p>
 
 <div>
-<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="left" alt="GIF" src="https://github.com/sachinthacham/sachinthacham/blob/main/Vanilla%401x-3.4s-279px-79px.gif" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
