@@ -8,26 +8,25 @@
 
 </div>
 
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/sachinthacham/count.svg"/>
-  </div> 
-</p>
+
 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinthacham&label=Profile%20views&color=0e75b6&style=flat" alt="sachinthacham" /> </p>
 
+<br>
+<br>
+<br>
 
 
-- 🔭 I’m currently working on [LearnGate(school management system)](https://github.com/sachinthacham/learngate-web2)
 
-- 🌱 I’m currently learning **ASP.Net core, NextJS**
+- 🔭 I’m currently working on [<img src="https://img.shields.io/badge/LearnGate%20(School%20Management%20System)-white?style=for-the-badge&color=15616d" alt=""/>](https://github.com/sachinthacham/learngate-web2)
 
-- 👨‍💻 All of my projects are available at  => [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.sachinthachamindu.me/)
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/ASP.Net%20Core%20%7C%20NextJS%20-%20white?style=for-the-badge&color=0077b6" alt=""/>
 
-- 📝 I regularly write articles on [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@sachinthachamindu26)
+- 👨‍💻 All of my projects are available at  [<img src ="https://img.shields.io/badge/My portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.sachinthachamindu.me/)
+
+- 📝 I regularly write articles on [<img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=Medium&logoColor=white&color=4a4e69"/>](https://medium.com/@sachinthachamindu26)
 
 - 📫 How to reach me **sachinthachamindu26@gmail.com**
   <br>
@@ -42,8 +41,8 @@
 
   <!-- Right side: Knowledge Base Section -->
   <div style="flex: 1; text-align: left;">
-    <h2 align="left">Knowledge Base</h2>
-    <h3 align="left">Languages</h3>
+   <h2 align="left">Knowledge Base</h2> 
+         <h3 align="left">Languages</h3>
     <p align="left">
          <a target="_blank"> 
       <img src="https://img.shields.io/badge/c%23%20programming-white?style=for-the-badge&logo=c%23&logoSize=100&color=blue"
@@ -67,6 +66,9 @@
     </p>
     <h3 align="left">Web Development</h3>
     <p align="left">
+    <a target="_blank"> 
+        <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=.NET&labelColor=%23512BD4&color=%23512BD4" alt=".net"/> 
+      </a>
       <a href="https://spring.io/" target="_blank"> 
         <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
@@ -99,10 +101,7 @@
      <a target="_blank"> 
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> 
       </a>
-       <a target="_blank"> 
-        <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=.NET&labelColor=%23512BD4&color=%23512BD4" alt=".net"/> 
-      </a>
-       <a target="_blank"> 
+     <a target="_blank"> 
         <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="react query"/> 
       </a>
        <a target="_blank"> 
@@ -115,17 +114,18 @@
 </p>
     <h3 align="left">Database</h3>
     <p align="left">
+          <a target="_blank"> 
+        <img src="https://img.shields.io/badge/Microsoft%20SQL-white?style=for-the-badge&logo=.&color=%23c30000" alt="mssql"/> 
+      </a>
       <a target="_blank"> 
         <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
       </a> 
       <a target="_blank"> 
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
       </a>
-      <a target="_blank"> 
-        <img src="https://img.shields.io/badge/Microsoft%20SQL-white?style=for-the-badge&logo=.&color=%23c30000" alt="mysql"/> 
-      </a>
-    </p>
-    <h3 align="left">IDE</h3>
+    
+</p>
+    <h3 align="left">Other</h3>
     <p align="left">
       <a href="https://aws.amazon.com/" target="_blank">
        <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
@@ -136,10 +136,7 @@
     <a href="https://cloud.google.com/" target="_blank">
          <img src="https://img.shields.io/badge/Visual%20Studio%20-white?style=for-the-badge&logo=.&color=%23512BD4" alt="visual studio"/> 
       </a>
-  </p>
-    <h3 align="left">Version Control & CI/CD</h3>
-    <p align="left">
-      <a href="https://git-scm.com/" target="_blank">
+        <a href="https://git-scm.com/" target="_blank">
         <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
       </a>
       <a href="https://github.com/bindian0509" target="_blank">
@@ -148,7 +145,8 @@
       <a href="https://gitlab.com/bindian0509" target="_blank">
         <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
       </a>
-     </p>
+  </p>
+   
   </div>
 </div>
 <br>
@@ -159,10 +157,10 @@
 
 <p align = "center">
  
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pr2tik1.github.io/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pratikbaitha04)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/)
-[ <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>](https://www.linkedin.com/in/pratik-kumar04/)
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.sachinthachamindu.me/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@sachinthachamindu26)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sachinthacham/)
+[ <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>](https://www.hackerrank.com/profile/sachinthachamin1)
 
 </p>
 <br>
