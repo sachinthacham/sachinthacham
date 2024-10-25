@@ -48,20 +48,20 @@
       <img src="https://img.shields.io/badge/c%23%20programming-white?style=for-the-badge&logo=c%23&logoSize=100&color=blue"
       alt="typescript"/>
       </a>
-      <a target="_blank"> 
-         <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      </a>
-      <a target="_blank"> 
-        <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/> 
-      </a>
-      <a target="_blank"> 
+          <a target="_blank"> 
           <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
       </a>
     <a target="_blank"> 
       <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
+      </a>
+      <a target="_blank"> 
+         <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      </a>
+      <a target="_blank"> 
+        <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"/> 
       </a>
     </p>
     <h3 align="left">Web Development</h3>
@@ -73,10 +73,10 @@
         <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
       </a>
-      <a href="https://hibernate.org/" target="_blank"> 
-        <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
+        <a target="_blank"> 
+        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/> 
       </a>
-      <a href="https://graphql.org" target="_blank">
+          <a href="https://graphql.org" target="_blank">
          <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
       </a>
@@ -84,7 +84,10 @@
         <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
       </a>
-      <a href="https://kubernetes.io" target="_blank"> 
+      <a href="https://hibernate.org/" target="_blank"> 
+        <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
+      </a>
+     <a href="https://kubernetes.io" target="_blank"> 
         <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
       </a>
          <a href="https://www.jenkins.io" target="_blank"> 
@@ -96,9 +99,6 @@
       </a> 
      </a>
       <a target="_blank"> 
-        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/> 
-      </a>
-     <a target="_blank"> 
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> 
       </a>
      <a target="_blank"> 
@@ -142,9 +142,14 @@
       <a href="https://github.com/bindian0509" target="_blank">
         <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
       </a>
+          <a href="https://gitlab.com/bindian0509" target="_blank">
+        <img src="https://img.shields.io/badge/Swagger-white?style=for-the-badge&logo=swagger&logoColor=black&color=%2385EA2D" alt="postman"/>
+      </a>
       <a href="https://gitlab.com/bindian0509" target="_blank">
         <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
       </a>
+        
+
   </p>
    
   </div>
@@ -155,12 +160,17 @@
 
 <h2>🤝To connect with me</h2>
 
+
+
+
+
 <p align = "center">
  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.sachinthachamindu.me/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@sachinthachamindu26)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sachinthacham/)
-[ <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>](https://www.hackerrank.com/profile/sachinthachamin1)
+[<img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>](https://www.hackerrank.com/profile/sachinthachamin1)
+[<img src="https://img.shields.io/badge/Sololearn-white?style=for-the-badge&logo=Sololearn&logoColor=white&color=%23149EF2" alt="example"/>](https://www.sololearn.com/en/profile/31368471)
 
 </p>
 <br>
