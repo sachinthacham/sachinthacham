@@ -177,10 +177,10 @@
 <br>
 <br>
 
-<p align="left">
+<!-- <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinthacham" alt="sachinthacham" /> 
     </a>
-</p>
+</p> -->
 
 
 <div style="display: flex; align-items: flex-start;">
