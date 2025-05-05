@@ -184,7 +184,7 @@
 
 
 <div style="display: flex; align-items: flex-start;">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinthacham&show_icons=true&locale=en&layout=compact" alt="sachinthacham" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinthacha&show_icons=true&locale=en&layout=compact" alt="sachinthacham" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinthacham&show_icons=true&locale=en" alt="sachinthacham" /></p>
 </div>
