@@ -20,15 +20,10 @@
 
 
 
-- 🔭 I’m currently working on [<img src="https://img.shields.io/badge/LearnGate%20(School%20Management%20System)-white?style=for-the-badge&color=15616d" alt=""/>](https://github.com/sachinthacham/learngate-web2)
+- 👨‍💻 All of my projects are available at  [<img src ="https://img.shields.io/badge/My portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://sachinthachamindu.vercel.app/)
 
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/ASP.Net%20Core%20%7C%20NextJS%20-%20white?style=for-the-badge&color=0077b6" alt=""/>
 
-- 👨‍💻 All of my projects are available at  [<img src ="https://img.shields.io/badge/My portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.sachinthachamindu.me/)
-
-- 📝 I regularly write articles on [<img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=Medium&logoColor=white&color=4a4e69"/>](https://medium.com/@sachinthachamindu26)
-
-- 📫 How to reach me **sachinthachamindu26@gmail.com**
+- 📫 How to reach me **sachinthachamindubal@gmail.com**
   <br>
   <br>
   <br>
@@ -178,7 +173,7 @@
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinthacham&theme=onedark" alt="sachinthacham" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinthacham" alt="sachinthacham" /></a> </p> 
+
 
 
 
