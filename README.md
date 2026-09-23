@@ -3,7 +3,7 @@
 
   <h1>Hi, I'm Sachintha Chamindu 👋</h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;.NET+%7C+React+%7C+TypeScript;Enthusiastic+Lifelong+Learner)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;.NET+%7C+React+%7C+Angular;Enthusiastic+Lifelong+Learner)](https://git.io/typing-svg)
 </div>
 
 <br>
