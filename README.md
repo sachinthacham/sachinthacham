@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I build full stack web applications using **.NET**, **React**, and **TypeScript**
+- 🔭 I build full stack web applications using **.NET**,  **NestJS**, **Angular**, **React** and **TypeScript**
 - 🌱 Currently deepening my knowledge of modern web architectures and cloud tooling
 - 📂 A full list of my work is available on my **[portfolio](https://sachinthachamindu.vercel.app/)**
 - ✍️ I occasionally write on **[Medium](https://medium.com/@sachinthachamindu26)**
-- 📫 Reach me at **sachinthachamindubal@gmail.com**
+- 📫 Reach me at **sachinthachamindu.dev@gmail.com**
 
 <br>
 
@@ -25,13 +25,12 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
 ### Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
